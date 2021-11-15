@@ -5,6 +5,8 @@ Hello! This is where I decided to store all the files for my spinny renders of v
 
 Complete (and slowed down versions of some gifs) can be found in /gifs. All other folders are the renders I used to put together the gifs.
 
+Pardon the insane amounts of folders; I have not yet figured out Github and don't know how to group them properly.
+
 Mod used to make the renders: https://www.curseforge.com/minecraft/mc-mods/isometric-renders
 
 Site used to make the gifs: https://ezgif.com/maker (yes, I know ffmpeg exists I'm just lazy)
