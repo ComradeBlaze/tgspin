@@ -1,0 +1,25 @@
+If you're interested in making simple renders like this by yourself, the great news is that it's really easy! Simply do the following:
+
+1. Download the IsoRender Mod: https://www.curseforge.com/minecraft/mc-mods/isometric-renders.
+
+2. Load up the location that you want to render ingame.
+
+3. Select it using the proper modkey (read the documentation! https://github.com/glisco03/isometric-renders/wiki).
+
+4. Once the area is selected, render it using the '/isorender area' command. Make sure the whole area is within render distance of the player!
+
+5. Set the Dimetric preset, change the rotation to 45. 
+
+6. Change the scale so that it is just small enough to fit in the display box. (This step is somewhat optional - any part outside of the display box wont be in the render. Rotate it around to make sure nothing important is cut off if you want a larger scale.)
+
+7. If you have a beefy pc and large amounts of storage, you can up the Renderer Resolution on the right to 4096 or 8192 (or higher!). Be aware this will make your gif's filesize pretty huge.
+
+8. Check the 'Allow Multiple Export Jobs' if, once again, you have a beefy pc and want to get the thing done fast.
+
+9. Start making renders of different angles - for my gifs, I use 24 frames, so I make renders on the following rotation angles:
+
+```0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345```
+
+10. Once you have your renders, you can combine them into a gif (there's many ways to do this, but I use https://ezgif.com/maker out of laziness).
+
+11. You're done!
